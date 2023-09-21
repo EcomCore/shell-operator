@@ -1,6 +1,6 @@
 module github.com/flant/shell-operator
 
-go 1.19
+go 1.21
 
 require (
 	github.com/flant/kube-client v0.26.1
